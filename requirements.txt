@@ -1,7 +1,0 @@
-numpy==1.17.4
-pandas==0.25.3
-tensorflow==2.1.0
-h5py==2.10
-bert4keras==0.10.6
-安装环境
-1111111
